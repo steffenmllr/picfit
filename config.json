@@ -1,0 +1,12 @@
+{
+  "port": 3001,
+  "kvstore": {
+    "type": "cache"
+  },
+  "storage": {
+    "src": {
+      "type": "fs",
+       "location": "/gopath/src/thoas/picfit/images"
+    }
+  }
+}
